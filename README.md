@@ -1,2 +1,4 @@
 # tree
-mini project
+mini project:
+- html template
+- javascript
